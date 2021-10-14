@@ -1,0 +1,31 @@
+
+
+body {
+    background-color: rgb(81, 214, 69);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
+  table, th, td {
+    border: 3.5px solid rgb(1, 39, 255);
+  }
+  img {
+    border: 5px solid rgb(255, 0, 0);
+  }
+  div {
+    
+    background: rgb(9, 247, 255);
+    background-clip: padding-box;
+  }
+  img {
+    border-radius: 100%;
+  }
+ 
